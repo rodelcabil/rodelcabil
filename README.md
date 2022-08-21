@@ -7,7 +7,7 @@
 - :mag: I am Currently looking for a job that suits my skills in front-end development.
 - :computer: You can see my portfolio here [https://rodel-cabil-portfolio.web.app/works](https://rodel-cabil-portfolio.web.app/works)
 - 📫 How to reach me: [imrodelcabil@gmail.com](imrodelcabil@gmail.com)
-- ⚡ Fun fact: I just learned HTML and CSS because I've created a webpage to confess my feelings to someone I love.
+- ⚡ Fun fact: I just learned HTML and CSS because I want to confess my feelings to someone I love through a webpage.
 
 ## Contact me through:
 <a><a/>
@@ -23,7 +23,7 @@
 <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" width="50" />
 <img src="https://icons-for-free.com/iconfiles/png/512/design+development+facebook+framework+mobile+react+icon-1320165723839064798.png" width="50" /> 
 <img src="https://vectorified.com/images/icon-react-native-24.png" width="50" />
-<img src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" width="50" />
+<img src="https://iconape.com/wp-content/files/an/351546/png/tailwind-css-logo.png" width="50" />
 <img src="https://alexisvt.gallerycdn.vsassets.io/extensions/alexisvt/flutter-snippets/0.0.2/1529817162825/Microsoft.VisualStudio.Services.Icons.Default" width="50" />
 <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="50" />
 <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png" width="50" />
