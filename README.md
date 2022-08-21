@@ -12,9 +12,9 @@
 ## Contact me through:
 <a><a/>
 <a href="https://www.facebook.com/rodel.cabil/"><img src="https://clipart.info/images/ccovers/1509135366facebook-symbol-png-logo.png" width="50" /></a>
-<img src="https://www.freepnglogos.com/uploads/instagram-icon-png/instagram-icon-suzem-limited-make-known-20.png" width="50" />
-<img src="https://www.freeiconspng.com/uploads/cricle-twitter-emblem-png-clipart-8.png" width="50" />
-<img src="http://mediacause.org/wp-content/uploads/Linkedin-Logo.png" width="50" />
+<a href="https://www.instagram.com/rodelcabil_/"><img src="https://www.freepnglogos.com/uploads/instagram-icon-png/instagram-icon-suzem-limited-make-known-20.png" width="50" /></a>
+<a href="https://twitter.com/rodelcabil_"><img src="https://www.freeiconspng.com/uploads/cricle-twitter-emblem-png-clipart-8.png" width="50" /></a>
+<a href="https://www.linkedin.com/in/rodel-cabil-1090b5226/"><img src="http://mediacause.org/wp-content/uploads/Linkedin-Logo.png" width="50" /></a>
 
 ## Languages and Tools:
 <a><a/>
