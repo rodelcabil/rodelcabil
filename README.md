@@ -16,7 +16,7 @@
 <a href="https://twitter.com/rodelcabil_"><img src="https://www.freeiconspng.com/uploads/cricle-twitter-emblem-png-clipart-8.png" width="50" /></a>
 <a href="https://www.linkedin.com/in/rodel-cabil-1090b5226/"><img src="http://mediacause.org/wp-content/uploads/Linkedin-Logo.png" width="50" /></a>
 
-## Languages and Tools:
+## Technologies and Tools:
 <a><a/>
 <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" width="57" />
 <img src="https://camo.githubusercontent.com/b059b3150634ebbb37fac310309b3c4a841b0ecdabcc7409c0067397f8a3931b/687474703a2f2f696f31332d686967682d6470692e61707073706f742e636f6d2f696d616765732f435353335f4c6f676f2e737667" width="50" />
