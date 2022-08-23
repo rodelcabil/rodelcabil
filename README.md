@@ -7,7 +7,7 @@
 - :mag: I am Currently looking for a job that suits my skills in front-end development.
 - :computer: You can see my portfolio here [https://rodel-cabil-portfolio.web.app/works](https://rodel-cabil-portfolio.web.app/works)
 - 📫 How to reach me: [imrodelcabil@gmail.com](imrodelcabil@gmail.com)
-- ⚡ Fun fact: I just learned HTML and CSS because I want to confess my feelings to someone I love through a webpage.
+
 
 ## Contact me through:
 <a><a/>
